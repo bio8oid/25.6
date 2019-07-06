@@ -1,0 +1,31 @@
+.button-google {
+    width: 250px;  
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background: #7799c5;
+    margin: 0 auto;
+    display: block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+h1 {
+    color: rgb(255, 72, 0);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    padding-top: 300px;  
+    background-image: url('/gr.jpg');
+    background-size: cover;
+    background-position: center;
+}
